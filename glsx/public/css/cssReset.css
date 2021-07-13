@@ -1,0 +1,20 @@
+/* 清除所有元素的内外边距 */
+
+
+* {
+    margin: 0;
+    padding: 0;
+  }
+ /* 去掉a标签的下划线 */
+ a{text-decoration:none  !important;}
+/* 去掉列表的标记 */
+  ul,ol {
+    list-style: none !important;
+  }
+
+  
+  .w{
+    width: 1200px;
+    margin: 0 auto !important;
+  }
+ 
